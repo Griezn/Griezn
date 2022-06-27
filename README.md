@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Griezn
-- 👀 I’m interested in computers, server to be precise
-- 🌱 I’m currently learning c++ and GO
-- 💞️ I’m looking to collaborate on creating an VoIP
-- 👨‍🎓 Studying Engineering Technology (Information Engineering Technology) @ UGent
+- 👀 I’m interested in computers and server
+- 🌱 I’m currently learning C# and GO
+- 👨‍🎓 Studying Computer Sience @ KU Leuven
 - 💻 Surface Book 2 i7
 
 <!---
